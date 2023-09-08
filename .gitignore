@@ -1,0 +1,46 @@
+# Ignore Composer's vendor directory
+/vendor/
+
+# Ignore any logs or generated files
+/log/
+/storage/
+*.log
+
+# Ignore configuration files that may contain sensitive information
+.env
+
+# Ignore composer.lock file
+composer.lock
+
+# Ignore .DS_Store files on macOS
+.DS_Store
+
+# Ignore the .idea directory created by PhpStorm
+.idea/
+
+# Ignore Node.js related files if you use npm or yarn for frontend development
+node_modules/
+npm-debug.log
+
+# Ignore local development files and settings
+/.env.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+
+# Ignore database dump files
+/*.sql
+
+# Ignore any user-specific configuration
+/.idea/workspace.xml
+/.idea/dataSources.xml
+/.idea/dataSources.ids
+/.idea/dataSources.local.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/vcs.xml
+/.idea/webServers.xml
+
+# Ignore PHPStorm's settings directory
+/.idea/phpstorm.meta.php
