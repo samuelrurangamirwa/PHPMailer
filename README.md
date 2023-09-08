@@ -1,6 +1,6 @@
 # PHP Mailer
 
-    PHP Mailer is a powerful and easy-to-use email library for PHP that allows you to send email messages via various protocols including SMTP and mail().
+PHP Mailer is a powerful and easy-to-use email library for PHP that allows you to send email messages via various protocols including SMTP and mail().
 
 ## Installation
 
@@ -53,12 +53,12 @@ try {
 ?>
 ```
 
-For more advanced usage and configuration options, please refer to the official documentation.
+For more advanced usage and configuration options, please refer to the [official documentation](https://github.com/PHPMailer/PHPMailer.git).
 
 ## Features
 
-    Send email via SMTP or PHP's mail() function.
-    Supports HTML and plain text email content.
-    Attachments and inline images.
-    Secure and easy-to-configure SMTP settings.
-    Comprehensive documentation.
+Send email via SMTP or PHP's mail() function.
+Supports HTML and plain text email content.
+Attachments and inline images.
+Secure and easy-to-configure SMTP settings.
+Comprehensive documentation.
